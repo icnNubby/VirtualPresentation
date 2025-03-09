@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Presentation Example</string>
+    <string name="presentation_text">I am the Presentation %s</string>
+</resources>

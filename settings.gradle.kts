@@ -20,5 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "VirtualPresentation"
-include(":app")
- 
+include(":app-virtial-display")
+include(":app-presentation")
+include(":display-id-protocol")
