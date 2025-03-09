@@ -5,13 +5,16 @@
 
     <TextView
         android:id="@+id/presentation_text"
-        android:textColor="@color/teal_700"
+        android:textColor="#E91E63"
         android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
+    <!-->
+        This button will not work, because touches are not translated via presentation api
+    <-->
     <Button
-        android:text="I Will not work"
+        android:text="I will not work"
         android:layout_gravity="bottom|center_horizontal"
         android:layout_marginBottom="40dp"
         android:layout_width="wrap_content"

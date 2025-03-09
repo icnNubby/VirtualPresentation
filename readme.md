@@ -5,3 +5,7 @@
 
 ## presentation app
 - draws on virtual display, attached to presentation
+
+## notes:
+- touches are not translated with Presentation/VirtualDisplay API (by default), use windows
+- you should handle Display callbacks (not in this demo) to achieve stable result
